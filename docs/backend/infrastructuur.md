@@ -6,6 +6,7 @@ Debian machine:
 
 * 2 cores
 * 2 gb ram
+* 25gb opslag
 * Users:
   * Bernd
   * Quinten
