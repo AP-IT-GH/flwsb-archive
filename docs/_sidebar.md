@@ -40,6 +40,7 @@
   * [Security](backend/security.md)
   * [Testdata](backend/testdata.md)
   * [Reverse-proxy](backend/reverse-proxy.md)
+  * [Infrastructuur](backend/infrastructuur.md)
 * Frontend
 
   * [Node-RED Dashboard](frontend/dashboard.md)
