@@ -68,6 +68,10 @@
 
   * [Testdata](backend/testdata.md)
 
+* CI-CD-Pipeline
+
+  * [Gitea & Jenkins pipeline](ci-cd-pipeline/gitea-jenkins.md)
+
 * Frontend
 
   * [Node-RED Dashboard](frontend/dashboard.md)
