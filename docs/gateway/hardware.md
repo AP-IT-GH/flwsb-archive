@@ -6,18 +6,24 @@ We gebruken voor de basis een Raspberry Pi 4 Compute module op een CM4-POE-UPS-B
 
 ## BOM
 
-- CM4-POE-UPS-BASE KIT (<https://www.waveshare.com/wiki/CM4-POE-UPS-BASE>)
-- 3X 18650 batterij
-- Raspberry PI Compute module 4 met 32GB MMC (CM4104032)
-- Antennes voor LoRaWAN
-- 2x Pigtail SMA-MHF voor LoRaWAN optimaal 8.5cm
-- 1x Pigtail SMA-MHF, lengte nog te bepalen
-- CR2032 batterij
-- USB SDR + antenne
-- IC880A LoRaWAN bord
-- Adapter bord IC880A (zie onder)
-- 12V Fan 4010 met PWM
-- Metalen behuizing (zie onder))
+| Hardware                                                                                           | Aanwezig | Nodig |
+| -------------------------------------------------------------------------------------------------- | -------- | ----- |
+| CM4-POE-UPS-BASE KIT (<https://www.waveshare.com/wiki/CM4-POE-UPS-BASE>)                           | 5        | 5     |
+| 18650 batterij                                                                                     | 3        | 15    |
+| CR2032 batterij                                                                                    | 1        | 5     |
+| Raspberry PI Compute module 4 met 32GB MMC (CM4104032)                                             | 5        | 5     |
+| IC880A LoRaWAN bord                                                                                | 5        | 5     |
+| Antennes voor LoRaWAN                                                                              | 0        | 5     |
+| Adapter bord IC880A (zie onder)                                                                    | 0        | 5     |
+| 2x Pigtail SMA-MHF voor LoRaWAN optimaal 8.5cm                                                     | 0        | 5     |
+| 1x Pigtail SMA-MHF, lengte nog te bepalen                                                          | 0        | 5     |
+| USB SDR + antenne                                                                                  | 0        | 5     |
+| 12V Fan 4010 met PWM (fans die erbij zaten)                                                        | 5        | 5     |
+| Metalen behuizing (zie onder))                                                                     | 0        | 5     |
+| POE injector (<https://eu.store.ui.com/collections/unifi-accessories/products/unifi-poe-adapters>) | 0        | 5     |
+| Rol cat 5e                                                                                         | 0        | 1     |
+| RJ45 connectors                                                                                    | Ø        | 100   |
+| RJ45 Krimptang                                                                                     | Ø        | 1     |
 
 ### Adapter Board
 
